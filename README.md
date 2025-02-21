@@ -1,0 +1,1 @@
+# devops_static_site
