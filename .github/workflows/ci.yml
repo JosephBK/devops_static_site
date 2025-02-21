@@ -24,7 +24,7 @@ jobs:
         uses: 'google-github-actions/upload-cloud-storage@v2'
         with: 
           project_id:'devops-project-123-451610'
-          path: 'static-site/*'
+          path: '*.html'
           destination: 'devops-static-site-bucket'
       
       
